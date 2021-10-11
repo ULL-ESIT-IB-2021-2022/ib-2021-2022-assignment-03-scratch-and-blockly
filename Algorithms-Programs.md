@@ -5,8 +5,8 @@ Los objetivos de esta práctica son que el alumnado:
 
 * Conozca los conceptos de Algoritmo y Programa
 * Conozca formas básicas de describir algoritmos sencillos
-* Conozca los entornos de programación de Scratch y Blockly
-* Sea capaz de desarrollar programas simples en Scratch y Blockly
+* Conozca los entornos de programación de [Scratch](https://scratch.mit.edu/) y [Blockly](https://developers.google.com/blockly)
+* Sea capaz de desarrollar programas simples en [Scratch](https://scratch.mit.edu/) y [Blockly](https://developers.google.com/blockly)
 
 ### Rúbrica de evaluacion de esta práctica
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
