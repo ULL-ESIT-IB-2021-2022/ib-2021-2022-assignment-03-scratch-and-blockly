@@ -57,9 +57,9 @@ y estudie en ellas los conceptos de Algoritmo, Pseudocódigo, Datos de Entrada, 
 
     Desarrolle en [Scratch](https://scratch.mit.edu/), y guarde cada programa en su cuenta de [Scratch](https://scratch.mit.edu/) para mostrarla al profesorado durante la sesión de evaluación de esta práctica, los programas que se proponen a continuación.
 
-8. Es una tradición en Informática que el primer programa que se escribe en un lenguaje de programación es uno que simplemente imprime `Hello World!` en la pantalla del ordenador. Escriba en Scrath el programa `Hello World!`.
+8. Es una tradición en Informática que el primer programa que se escribe en un lenguaje de programación es uno que simplemente imprime `Hello World!` en la pantalla del ordenador. Escriba en [Scratch](https://scratch.mit.edu/) el programa `Hello World!`.
 
-9. Una variable es un elemento donde almacenar un valor. Se puede pensar como una cajita o un recipiente que contiene algo. En realidad es una pequeña porción de la memoria del ordenador, que en función del tipo de valor que almacena ocupa más o menos espacio. Se denomina "asignación" a una sentencia que permite cambiar el valor de una variable. Desarrolle un programa que pregunte al usuario su nombre y edad y los imprima en pantalla.
+9. Una variable es un elemento donde almacenar un valor. Se puede pensar como una cajita o un recipiente que contiene algo. En realidad es una pequeña porción de la memoria del ordenador, que en función del tipo de valor que almacena ocupa más o menos espacio. Se denomina "asignación" a una sentencia que permite cambiar el valor de una variable. Desarrolle un programa en [Scratch](https://scratch.mit.edu/) que pregunte al usuario su nombre y edad y los imprima en pantalla.
 
 10. La parte derecha de una asignación es una *expresión*. Una expresión es esencialmente una fórmulita que permite calcular un valor. 
 La expresión puede ser desde un literal (un `2` por ejemplo) hasta una fórmula compleja que involucre a muchas variables. Calcular el valor de una expresión es lo que se llama evaluar una expresión.
