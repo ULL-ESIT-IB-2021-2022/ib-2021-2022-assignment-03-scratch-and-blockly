@@ -45,13 +45,13 @@ y estudie en ellas los conceptos de Algoritmo, Pseudocódigo, Datos de Entrada, 
 ### Ejercicios 
 
 7. Estudie [este otro documento](http://www.agropolis.org/miss-abms/initiationto-algorithmics-with-scratch.pdf) y estudie con detenimiento las explicaciones que se aportan sobre los siguientes conceptos:
-* Secuencia de sentencias
-* Introducción a las variables
-* Sentencias Condicionales
-* Sentencias de bucle (repetición)
-* Manipulación de conjuntos de valores
-* Procedimientos y Funciones 
-* Introducción a la programación orientada a objetos
+  * Secuencia de sentencias
+  * Introducción a las variables
+  * Sentencias Condicionales
+  * Sentencias de bucle (repetición)
+  * Manipulación de conjuntos de valores
+  * Procedimientos y Funciones 
+  * Introducción a la programación orientada a objetos
   Desarrolle en Scratch todos los ejercicios que se proponen en [el documento](http://www.agropolis.org/miss-abms/initiationto-algorithmics-with-scratch.pdf) a partir de la página 7.
 
   Desarrolle en Scratch, y guarde cada programa en su cuenta de Scratch para mostrarla al profesorado durante la sesión de evaluación de esta práctica, los programas que se proponen a continuación.
