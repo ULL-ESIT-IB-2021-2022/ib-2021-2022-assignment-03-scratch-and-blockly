@@ -79,12 +79,11 @@ Nótese que un número es divisible entre `3` si al dividirlo entre `3` el resto
     
 15. Desarrolle un programa en [Scratch](https://scratch.mit.edu/) que calcule el área y el perímetro de un cuadrado. El programa solicitará la longitud del lado del cuadrado y luego mostrará en pantalla un mensaje con el perímetro y el área.
 
-16. Escriba un programa en [Scratch](https://scratch.mit.edu/) que calcule los años que le faltan para jubilarse. El programa solicitará que introduzca la edad y luego mostrará un mensaje con los años que le faltan para jubilarse. Pese a los tiempos que corren, suponga que la jubilación es a los 67 años y utilice una constante para
-almacenar ese dato.
+16. Realice un programa en [Scratch](https://scratch.mit.edu/)que convierta de kilómetros a millas, teniendo en cuenta que una milla son `1,60934` kilómetros. Compruebe [aquí](https://www.metric-conversions.org/es/longitud/millas-a-kilometros.htm) la corrección de su programa. ¿Cómo cree Ud. que puede funcionar esa página web en la que puede Ud. convertir de unidades diferentes magnitudes?.
 
-17. Realice un programa en [Scratch](https://scratch.mit.edu/)que convierta de kilómetros a millas, teniendo en cuenta que una milla son `1,60934` kilómetros. Compruebe [aquí](https://www.metric-conversions.org/es/longitud/millas-a-kilometros.htm) la corrección de su programa. ¿Cómo cree Ud. que puede funcionar esa página web en la que puede Ud. convertir de unidades diferentes magnitudes?.
+17. Desarrolle un programa en [Scratch](https://scratch.mit.edu/) que dado un número `N` entero mayor que `1`, determine si `N` es un número primo.
 
-18. Desarrolle un programa en [Scratch](https://scratch.mit.edu/) que dado un número `N` entero mayor que `1`, determine si `N` es un número primo.
+18. Escriba un programa en [Scratch](https://scratch.mit.edu/) que calcule los años que le faltan para jubilarse. El programa solicitará que introduzca la edad y luego mostrará un mensaje con los años que le faltan para jubilarse. Pese a los tiempos que corren, suponga que la jubilación es a los 67 años y utilice una constante para almacenar ese dato.
 
 ### Referencias
 
