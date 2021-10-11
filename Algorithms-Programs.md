@@ -1,47 +1,30 @@
 # Práctica 03. Algoritmos, Sentencias y Programas. Scratch y Blockly
 
 ### Objetivos
+
 Los objetivos de esta práctica son que el alumnado:
 
-* Conozca los conceptos de Algoritmo y Programa
-* Conozca formas básicas de describir algoritmos sencillos
-* Conozca los entornos de programación de [Scratch](https://scratch.mit.edu/) y [Blockly](https://developers.google.com/blockly)
-* Sea capaz de desarrollar programas simples en [Scratch](https://scratch.mit.edu/) y [Blockly](https://developers.google.com/blockly)
+* Conozca los conceptos de Algoritmo y Programa.
+* Conozca formas básicas de describir algoritmos sencillos.
+* Conozca los entornos de programación de [Scratch](https://scratch.mit.edu/) y [Blockly](https://developers.google.com/blockly).
+* Sea capaz de desarrollar programas simples en [Scratch](https://scratch.mit.edu/) y [Blockly](https://developers.google.com/blockly).
 
 ### Rúbrica de evaluacion de esta práctica
-Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
-que se tendrán en cuenta a la hora de evaluar esta práctica:
-* El alumnado ha de acreditar que es capaz de realizar programas simples en Scratch similares a los que se
-  proponen en este documento.
-* El alumnado ha de acreditar conocer los conceptos expuestos en el material de referencia de esta práctica
 
-**Avise al profesor** al finalizar la realización de cada uno de los pasos que se indican a continuación. No inicie una nueva tarea sin haber revisado la anterior.
+Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva) que se tendrán en cuenta a la hora de evaluar esta práctica:
+* El alumnado ha de acreditar que es capaz de realizar programas simples en [Scratch](https://scratch.mit.edu/) similares a los que se proponen en este documento.
+* El alumnado ha de acreditar conocer los conceptos expuestos en el material de referencia de esta práctica.
+
 ### Introducción
-De manera simple se puede decir que un algoritmo es una secuencia ordenada de pasos que persiguen la consecución de un fin, de un objetivo claro y especifico.
-En la vida cotidiana se emplean algoritmos en multitud de situaciones para resolver diversos problemas como por ejemplo para 
-hacer la colada con una lavadora (instrucciones pegadas en la tapa de la máquina), 
-para tocar música (partituras), para construir un avión a escala (expresados en las instrucciones), 
-para hacer trucos de magia (pasos para hacer el truco) o, incluso para elaborar un plato de comida (pasos de la receta). 
-Estos algoritmos se conocen como algoritmos cualitativos, ya que su resultado es un hecho u objeto.
 
-Hay otros ejemplos, conocidos como algoritmos cuantitativos, que se refieren a algoritmos que resuelven problemas cuyo resultado es numérico, 
-por ejemplo el algoritmo de la división para calcular el cociente de dos números o el algoritmo de Euclides para calcular el máximo común divisor de dos enteros positivos.
+De manera simple se puede decir que un algoritmo es una secuencia ordenada de pasos que persiguen la consecución de un fin, de un objetivo claro y especifico. En la vida cotidiana se emplean algoritmos en multitud de situaciones para resolver diversos problemas como por ejemplo para hacer la colada con una lavadora (instrucciones pegadas en la tapa de la máquina), para tocar música (partituras), para construir un avión a escala (expresados en las instrucciones), para hacer trucos de magia (pasos para hacer el truco) o, incluso para elaborar un plato de comida (pasos de la receta). Estos algoritmos se conocen como algoritmos cualitativos, ya que su resultado es un hecho u objeto. Hay otros ejemplos, conocidos como algoritmos cuantitativos, que se refieren a algoritmos que resuelven problemas cuyo resultado es numérico, por ejemplo el algoritmo de la división para calcular el cociente de dos números o el [algoritmo de Euclides](https://es.wikipedia.org/wiki/Algoritmo_de_Euclides) para calcular el máximo común divisor de dos enteros positivos.
 
-El interés en esta asignatura por los algoritmos radica en que se pretende introducir al alumnado en la
-programación de ordenadores.
+El interés en esta asignatura por los algoritmos radica en que se pretende introducir al alumnado en la programación de ordenadores.
 
-Máquinas algorítmicas son aquellas capaces de ejecutar algoritmos (realizar cada uno de sus pasos) y una de este tipo de máquinas son los ordenadores. 
-Cuando se trabaja con ordenadores, los algoritmos se expresan como programas. 
-Los programas son algoritmos escritos en un lenguaje no ambiguo cuya sintaxis y semántica "entiende" el ordenador. 
-Hay muchos lenguajes de programación, entre ellos C, Java, Python o Javascript. 
-Así pues, si se quiere que un ordenador ejecute una tarea, primero se ha de idear un algoritmo para llevarla a cabo; 
-programar el algoritmo, es decir representar ese algoritmo de modo que se pueda comunicar al ordenador. 
-Se debe transformar el algoritmo conceptual en un conjunto de instrucciones o sentencias y representar éstas en un lenguaje sin ambigüedad. 
-En esta asignatura se utilizará el lenguaje C++, pero antes de programar en C++ se pretende con esta práctica que
-el alumnado realice sus primeros programas en un lenguaje más simple, en el que la programación se realiza de
-forma visual combinando diferentes tipos de bloques.
+Máquinas algorítmicas son aquellas capaces de ejecutar algoritmos (realizar cada uno de sus pasos) y una de este tipo de máquinas son los ordenadores. Cuando se trabaja con ordenadores, los algoritmos se expresan como programas. Los programas son algoritmos escritos en un lenguaje no ambiguo cuya sintaxis y semántica "entiende" el ordenador. Hay muchos lenguajes de programación, entre ellos [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) o [JavaScript](https://en.wikipedia.org/wiki/JavaScript).  Así pues, si se quiere que un ordenador ejecute una tarea, primero se ha de idear un algoritmo para llevarla a cabo; programar el algoritmo, es decir representar ese algoritmo de modo que se pueda comunicar al ordenador. Se debe transformar el algoritmo conceptual en un conjunto de instrucciones o sentencias y representar éstas en un lenguaje sin ambigüedad. En esta asignatura se utilizará el lenguaje [C++](https://en.wikipedia.org/wiki/C%2B%2B), pero antes de programar en C++ se pretende con esta práctica que el alumnado realice sus primeros programas en un lenguaje más simple, en el que la programación se realiza de forma visual combinando diferentes tipos de bloques.
 
 ### Trabajo previo
+
 1. Vea el vídeo [Problemas, Algoritmos y
 Programas](https://media.upv.es/#/portal/video/a8d70173-71c5-884e-8308-f72541d8d7c8)
 
