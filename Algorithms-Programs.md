@@ -55,7 +55,7 @@ y estudie en ellas los conceptos de Algoritmo, Pseudocódigo, Datos de Entrada, 
 
     Desarrolle en [Scratch](https://scratch.mit.edu/) todos los ejercicios que se proponen en [el documento](http://www.agropolis.org/miss-abms/initiationto-algorithmics-with-scratch.pdf) a partir de la página 7.
 
-    Desarrolle en [Scratch](https://scratch.mit.edu/), y guarde cada programa en su cuenta de [Scratch](https://scratch.mit.edu/) para mostrarla al profesorado durante la sesión de evaluación de esta práctica, los programas que se proponen a continuación.
+    Desarrolle en [Scratch](https://scratch.mit.edu/), y guarde cada programa en su cuenta de [Scratch](https://scratch.mit.edu/) para mostrarla al profesorado durante la sesión de evaluación de esta práctica, los programas que se proponen a continuación:
 
 8. Es una tradición en Informática que el primer programa que se escribe en un lenguaje de programación es uno que simplemente imprime `Hello World!` en la pantalla del ordenador. Escriba en [Scratch](https://scratch.mit.edu/) el programa `Hello World!`.
 
