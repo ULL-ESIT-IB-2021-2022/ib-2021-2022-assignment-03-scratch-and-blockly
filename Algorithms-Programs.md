@@ -62,6 +62,7 @@ y estudie en ellas los conceptos de Algoritmo, Pseudocódigo, Datos de Entrada, 
 
 10. Expresiones. La parte derecha de una asignación es una expresión. Una expresión es esencialmente una fórmulita que permite calcular un valor. 
 La expresión puede ser desde un literal (un `2` por ejemplo) hasta una fórmula compleja que involucre a muchas variables. Calcular el valor de una expresión es lo que se llama evaluar una expresión.
+
   Desarrolle un programa que solicite al usuario un par de números enteros positivos e imprima en pantalla la suma, el producto, la diferencia y la división de ambos valores.
 
 11. Una constante es una variable que no se puede modificar (decir "variable constante" sería un oxímoron). 
