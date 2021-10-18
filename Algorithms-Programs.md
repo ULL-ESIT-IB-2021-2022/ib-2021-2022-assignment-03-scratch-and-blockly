@@ -1,5 +1,7 @@
 # Práctica 03. Algoritmos, Sentencias y Programas. Scratch y Blockly
 
+# Factor de ponderación: 5
+
 ### Objetivos
 
 Los objetivos de esta práctica son que el alumnado:
